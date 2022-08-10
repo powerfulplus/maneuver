@@ -2,6 +2,8 @@
 - trading
 - chat
 - freelance
+- spam
+- crawl
 
 digital product
  - email list for marketing
