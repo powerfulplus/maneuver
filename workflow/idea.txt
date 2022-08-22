@@ -4,6 +4,16 @@
 - freelance
 - spam
 - crawl
+- marketing
+
+# open source development
+## donation
+https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion
+
+## marketing
+https://github.com/josedasilva11/PancakeSwap-Prediction-Bot-
+
+
 
 digital product
  - email list for marketing

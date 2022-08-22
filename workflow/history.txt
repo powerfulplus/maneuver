@@ -1,3 +1,20 @@
+kk services
+ - seo
+ - adense
+email marketing
+ - heroku
+add email list function on sworker
+virtual phone
+
+catch mail list
+Research Bitcoin
+google keyword research
+https://trends.google.com/trends/?geo=US
+collect customer emails for marketing
+
+link building
+check services
+ckeck email sending
 - kk
  off = pause sellers
 done - sionoo, disable pp, only btc enabled

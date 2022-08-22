@@ -1,3 +1,13 @@
+# bot
+TensorFlow
+Prophet
+Selenium AI
+
+# automation
+
+# Smart Contract
+Solidity
+
 Online Schema
 - crypto currency
  = invest
