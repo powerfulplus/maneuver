@@ -14,11 +14,15 @@ mail check 		check everyday 	1 hour
  0921
  talent.hubstaff.com 1 day
  0921
- check textnow to prevent suspend
- 0914
 
 new platform based IDE
 
+ability
+ - talent(speed reading, imagination, guessing, mental arithmetic, memorization)
+ - english and an other
+ - brain bend(problem solving)
+ - biology
+ - IT
 eye
 weight
 
