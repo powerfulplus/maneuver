@@ -17,6 +17,12 @@ choose new frameworks which are trends
 - analyze freelance sites
 - anylyze job sites
 - make profile
+ = email
+ = skype
+ = github
+ = resume
+ = facebook
+ = linkedin
  refer toptal profile
  refer americian developers
  use impressive words

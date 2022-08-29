@@ -13,8 +13,6 @@ https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion
 ## marketing
 https://github.com/josedasilva11/PancakeSwap-Prediction-Bot-
 
-
-
 digital product
  - email list for marketing
  - information
@@ -25,7 +23,6 @@ on page seo on wordpress
 free email hosting
 paid email hosting
 blogging wordpress
-find website ip
 Translate
 bitcoin wallet
 browser based bitcoin wallet generator
