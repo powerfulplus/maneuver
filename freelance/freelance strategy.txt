@@ -31,3 +31,4 @@ choose new frameworks which are trends
   = hackerrank.com
 - payment method competition
 - crypto currency competition
+- Use Certifications which could check online
