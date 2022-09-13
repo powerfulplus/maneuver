@@ -10,10 +10,12 @@ choose new frameworks which are trends
 - analyze competitors
  backend developer
  frontend developer
+
 - all in one solutions
  netsuite
  4d database
  filemaker
+
 - analyze freelance sites
 - anylyze job sites
 - make profile
@@ -32,3 +34,4 @@ choose new frameworks which are trends
 - payment method competition
 - crypto currency competition
 - Use Certifications which could check online
+- Choose an area which most of clients do not share their identity.
