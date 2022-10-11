@@ -15,15 +15,6 @@ check upwork, angel, mail
 
 new platform based IDE
 
-ability
- - talent(speed reading, imagination, guessing, mental arithmetic, memorization)
- - english and an other
- - brain bend(problem solving)
- - biology
- - IT
-eye
-weight
-
 do:
 mining
 editphoto code compare
@@ -33,7 +24,7 @@ find profitable site
 first:
 info
 email
-bitcoin
+wallet
 cpanel or hosting account
 ssh
 db
