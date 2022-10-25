@@ -2,9 +2,8 @@
 - trading
 - chat
 - freelance
-- spam
 - crawl
-- marketing
+- email marketing, SMM
 
 # open source development
 ## donation
